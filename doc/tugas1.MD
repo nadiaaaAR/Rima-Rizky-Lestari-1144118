@@ -1,7 +1,7 @@
 **PENGENALAN KECERDASAN BUATAN (ARTIFICIAL INTELLIGENCE)**
 
 <p align="center">
-  <img src="../../img/cvr.jpg" width="400px">
+  <img src="https://github.com/D4TI3C/Rima-Rizky-Lestari-1144118/blob/master/img/cvr.jpg" width="400px">
 </p>
 
 **LATAR BELAKANG MASALAH**
@@ -37,7 +37,7 @@ Di dalam kecerdasan buatan mempunyai jenis – jenis diantaranya:
 
 **CONTOH HASIL IMPLEMENTASI KECERDASAN BUATAN**
 <p align="center">
-  <img src="../../img/1.JPG" width="800px">
+  <img src="https://github.com/D4TI3C/Rima-Rizky-Lestari-1144118/blob/master/img/1.JPG" width="800px">
 </p>
 
 **PENUTUP**
