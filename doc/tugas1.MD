@@ -1,7 +1,7 @@
 **PENGENALAN KECERDASAN BUATAN (ARTIFICIAL INTELLIGENCE)**
 
 <p align="center">
-  <img src="../../img/cvr.JPG" width="400px">
+  <img src="../../img/cvr.jpg" width="400px">
 </p>
 
 **LATAR BELAKANG MASALAH**
@@ -37,7 +37,7 @@ Di dalam kecerdasan buatan mempunyai jenis – jenis diantaranya:
 
 **CONTOH HASIL IMPLEMENTASI KECERDASAN BUATAN**
 <p align="center">
-  <img src="../../img/1.JPG" width="400px">
+  <img src="../../img/1.jpg" width="400px">
 </p>
 
 **PENUTUP**
