@@ -1,7 +1,7 @@
 **PENGENALAN KECERDASAN BUATAN (ARTIFICIAL INTELLIGENCE)**
 
 <p align="center">
-  <img src="../../img/cvr.JPG" width="400px">
+  <img src="../../img/cvr.jpg" width="400px">
 </p>
 
 **LATAR BELAKANG MASALAH**
