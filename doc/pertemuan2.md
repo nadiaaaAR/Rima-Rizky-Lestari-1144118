@@ -1,7 +1,7 @@
 **REPRESENTASI PENGETAHUAN**
 
 <p align="center">
-  <img src="" width="400px">
+  <img src="https://github.com/D4TI3C/Rima-Rizky-Lestari-1144118/blob/master/img/2-2.jpg" width="400px">
 </p>
 
 **LATAR BELAKANG MASALAH**
@@ -19,7 +19,7 @@ Representasi Pengetahuan merupakan suatu cara untuk mempaparkan atau menyajikan 
 Pengetahuan sendiri dibagi menjadi 3 yaitu:
 
 - **Declarative Knowledge** yaitu pengetahuan yang digunakan sebagai penentu nilai yang salah dan benar dalam suatu hal.
-- **Procedural Knowledge** yaitu pengetahuan yang menyangkut dengan cara atau tahap – tahap melakukan sesuatu.
+- **Procedural Knowledge** yaitu pengetahuan yang menyangkut dengan cara atau tahap â€“ tahap melakukan sesuatu.
 - **Tacid Knowledge** yaitu pengetahuan yang tidak dapat didefinisikan atau dijabarkan dengan bahasa.
 
 3. **Model**
@@ -49,7 +49,7 @@ Merupakan representasi pengetahuan yang paling sering digunakan, karena banyak m
 **Contoh Hasil Implementasi**
 
 <p align="center">
-  <img src="" width="400px">
+  <img src="https://github.com/D4TI3C/Rima-Rizky-Lestari-1144118/blob/master/img/2.JPG" width="400px">
 </p>
 
 **PENUTUP**
