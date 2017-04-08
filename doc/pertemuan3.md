@@ -1,5 +1,9 @@
 **REPRESENTASI PENGETAHUAN II**
 
+<p align="center">
+  <img src="https://github.com/D4TI3C/Rima-Rizky-Lestari-1144118/blob/master/img/3.jpg" width="400px">
+</p>
+
 **Latar Belakang**
 
 Di dalam Kecerdasan Buatan terdapat berbagai macam cara salah satunya untuk menyajikan atau mepresentasikan suatu pengetahuan. Pada penjelasan kali ini akan dijelaskan mengenai Representasi Pengetahuan berupa Penalaran (Reasoning), Semantic Network, dan Frame.
@@ -24,6 +28,10 @@ Semantic network adalah representasi yang mengekspresikan solusi permasalahan de
 
 **Contoh:**
 
+<p align="center">
+  <img src="https://github.com/D4TI3C/Rima-Rizky-Lestari-1144118/blob/master/img/3-2.PNG" width="400px">
+</p>
+
 Permasalahan pertani, serigala, angsa dan padi. Seorang petani ingin memindahkan dirinya sendiri, seekor serigala, seekor angsa gemuk, dan seikat padi yang berisi menyeberangi sungai. Sayangnya, perahunya sangat terbatas; dia hanya dapat membawa 1object dalam 1 penyeberangan. Dan lagi, dia tidak bisa meninggalkan angsa dan serigala dalam satu tempat, karena serigala akan memangsa angsa. Demikian pula dia tidak bisa meninggalkan angsa dan padi dalam satu tempat.
 
 Mendeskripsikan permasalahan di atas dengan menggunakan bahasa natural bukanlah cara yang tepat. Dalam hal ini, kita dapa menggunakan Semantic Network untuk merepretasikannya.
@@ -40,5 +48,6 @@ Frame memiliki slot yang menggambarkan rincian (atribut) dan karakteristik obyek
 
 **PENUTUP**
 
-**a.**** Kesimpulan :** Respresentasi Pengetahuan merupakan sebuah penyajian sebuah pengetahuan ke dalam skema tertentu agar dapat diakui penalarannya.
-**b.**** Saran :** disarankan mencari referensi dari sumber lain agar lebih dalam mempelajari tentang pembahasan ini.
+**a.** Kesimpulan :** Respresentasi Pengetahuan merupakan sebuah penyajian sebuah pengetahuan ke dalam skema tertentu agar dapat diakui penalarannya.
+
+**b.** Saran :** disarankan mencari referensi dari sumber lain agar lebih dalam mempelajari tentang pembahasan ini.
